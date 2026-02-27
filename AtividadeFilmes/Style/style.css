@@ -13,11 +13,14 @@ header{
 
 input{
   padding:10px;
+  border-radius: 133px;
+
 }
 
 button{
   padding:10px;
   cursor:pointer;
+  border-radius: 133px;
 }
 
 #resultados{
@@ -42,7 +45,7 @@ button{
   background:#333;
 }
 
-/* modal escondido por padrão */
+
 #modal{
   display:none;
   position:fixed;
